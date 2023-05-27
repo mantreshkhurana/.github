@@ -1,49 +1,43 @@
-# Pull Request
+# Security Issue Report
+
+**Summary**
+
+Provide a brief summary of the security issue you have identified.
 
 **Description**
 
-Provide a brief summary of the changes introduced by this pull request.
+Please provide a detailed description of the security issue, including:
 
-**Related Issue**
+- The vulnerability or weakness being exploited or exposed.
+- Steps to reproduce the issue, if applicable.
+- Any potential impact or consequences of the issue.
+- Any additional context or information that might be helpful in understanding the issue.
 
-If your pull request is related to an existing issue, reference it here by mentioning the issue number (e.g., "Closes #123").
+**Steps to Reproduce**
 
-**Proposed Changes**
+If applicable, provide detailed steps to reproduce the security issue. Include any specific inputs, configurations, or conditions required to trigger the vulnerability.
 
-Describe the changes you've made in this pull request. Include information such as:
+**Impact Assessment**
 
-- Features implemented
-- Bug fixes
-- Performance improvements
-- Refactoring done
-- Any other relevant changes
+Assess the potential impact or severity of the security issue. Consider factors such as:
 
-**Screenshots or GIFs**
+- The likelihood of exploitation.
+- The potential for unauthorized access or data breaches.
+- The scope or extent of the vulnerability (e.g., affecting specific components, user roles, or environments).
+- Any mitigating factors or conditions required for successful exploitation.
 
-If applicable, attach screenshots or GIFs that demonstrate the changes made or the new features introduced.
+**Proposed Solution**
 
-**Testing**
+If you have any suggestions or recommendations for addressing the security issue, please provide them here. This can include specific fixes, patches, or mitigations that can be implemented.
 
-Explain how you have tested the changes. Provide details such as:
+**Attachments**
 
-- Steps followed to test
-- Specific test cases executed
-- Frameworks or tools used for testing
-- Any additional information related to testing
+If applicable, attach any relevant code snippets, logs, screenshots, or other supporting materials that demonstrate or provide evidence of the security issue.
 
-**Additional Notes**
+**Contact Information**
 
-Add any additional information or context that may be helpful for reviewing the pull request.
+Please provide your contact information (e.g., email address) so that the project maintainers can reach out to you for further discussion or clarification, if needed. Indicate whether you would like to be credited for your report.
 
-**Checklist**
+**Confidentiality**
 
-Please make sure to review and check the following before submitting your pull request:
-
-- [ ] Code follows the project's coding conventions and style guidelines.
-- [ ] Code has been tested thoroughly.
-- [ ] Documentation has been updated, if applicable.
-- [ ] All existing tests pass successfully.
-- [ ] New tests have been added to cover the changes, if applicable.
-- [ ] Commit messages are clear and descriptive.
-
-By submitting this pull request, I confirm that my contribution is made under the project's [license](LICENSE).
+Specify whether this security issue should be treated as confidential and not disclosed publicly until it is resolved. If applicable, provide any specific timeframe or conditions for public disclosure.
