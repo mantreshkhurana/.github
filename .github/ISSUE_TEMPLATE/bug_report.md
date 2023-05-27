@@ -1,36 +1,38 @@
-# Bug Report
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
-**Description**
+---
 
-Provide a clear and concise description of the bug you encountered.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Steps to Reproduce**
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-Please outline the steps to reproduce the bug:
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-1. Step 1
-2. Step 2
-3. Step 3
-...
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Expected Behavior**
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-Explain what you expected to happen when following the steps above.
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-**Actual Behavior**
-
-Explain what actually happened after following the steps above. Describe any error messages, warnings, or unexpected behavior you observed.
-
-**Environment**
-
-- Operating System: [e.g., Windows, macOS, Linux]
-- Browser and Version: [if applicable]
-- Project Version/Commit: [if relevant]
-
-**Screenshots or Code Snippets**
-
-If applicable, attach screenshots or provide code snippets that illustrate the bug or error.
-
-**Additional Information**
-
-Add any other relevant information about the bug here. This can include the frequency of occurrence, any workarounds you've tried, or any additional context that might assist in resolving the bug.
+**Additional context**
+Add any other context about the problem here.
